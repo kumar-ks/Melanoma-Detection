@@ -5,8 +5,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 
 ## General Information
 - This project utilizes a convolutional neural network (CNN) to classify skin cancer images into different categories.
